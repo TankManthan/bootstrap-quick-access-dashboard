@@ -47,7 +47,8 @@ It provides instant shortcuts to popular tools like **Bootstrap, Grammarly, Chat
 ⚙️ Setup & Usage
 
 1. Clone this repository:
-    git clone https://github.com/TankManthan/quick-access-dashboard.git
+    git clone https://github.com/TankManthan/bootstrap-quick-access-dashboard.git
+                
 
 2. Open index.html in your browser.
 
