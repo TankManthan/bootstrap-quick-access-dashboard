@@ -13,7 +13,7 @@ It provides instant shortcuts to popular tools like **Bootstrap, Grammarly, Chat
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the dashboard](https://TankManthan.github.io/bootstrap-quick-access-dashboard/)  
+👉 [Click here to view the dashboard](https://tankmanthan.github.io/bootstrap-quick-access-dashboard/)  
 
 ---
 
