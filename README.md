@@ -1,9 +1,9 @@
 # ⚡ Quick Access Dashboard – Productivity & Networking Tools  
 
-[![GitHub stars](https://img.shields.io/github/stars/TankManthan/quick-access-dashboard?style=social)](https://github.com/TankManthan/quick-access-dashboard/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/TankManthan/quick-access-dashboard?style=social)](https://github.com/TankManthane/quick-access-dashboard/network/members)  
-[![GitHub issues](https://img.shields.io/github/issues/TankManthan/quick-access-dashboard)](https://github.com/TankManthan/quick-access-dashboard/issues)  
-[![GitHub license](https://img.shields.io/github/license/TankManthan/quick-access-dashboard)](LICENSE)  
+[![GitHub stars](https://img.shields.io/github/stars/TankManthan/bootstrap-quick-access-dashboard?style=social)](https://github.com/TankManthan/bootstrap-quick-access-dashboard/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/TankManthan/bootstrap-quick-access-dashboard?style=social)](https://github.com/TankManthane/bootstrap-quick-access-dashboard/network/members)  
+[![GitHub issues](https://img.shields.io/github/issues/TankManthan/bootstrap-quick-access-dashboard)](https://github.com/TankManthan/quick-access-dashboard/issues)  
+[![GitHub license](https://img.shields.io/github/license/TankManthan/bootstrap-quick-access-dashboard)](LICENSE)  
 
 ---
 
@@ -13,7 +13,7 @@ It provides instant shortcuts to popular tools like **Bootstrap, Grammarly, Chat
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the dashboard](https://TankManthan.github.io/quick-access-dashboard/)  
+👉 [Click here to view the dashboard](https://TankManthan.github.io/bootstrap-quick-access-dashboard/)  
 
 ---
 
